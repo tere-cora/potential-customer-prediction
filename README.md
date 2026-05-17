@@ -8,3 +8,5 @@ About the dataset: This dataset consists of colored images of red blood cells th
 Theparasitizedcells contain the Plasmodium parasite
 Theuninfectedcells are free of the Plasmodium parasitesbut could contain other impurities
 The zip files contains sets already broken into training and test datasets
+## Purpose
+The purpose of this project is to see if a machine learning model can identify positive cases of malaria from images of stained red blood cells. 
